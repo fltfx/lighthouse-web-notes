@@ -1,4 +1,4 @@
 # Claudia's Notes
-## Summary1
+## Summary
 
-This repository contains all of the notes taken by Claudia for the Lighthouse Labs Web Development Bootcamp. Is my change working now???
+This repository contains all of the notes taken by [Claudia](https://github.com/fltfx) for the Lighthouse Labs Web Development Bootcamp.
